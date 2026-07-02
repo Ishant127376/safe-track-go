@@ -70,8 +70,3 @@ Backend & Services
 
 ---
 
-
-
-## Team
-
-Developed as a prototype for building safer and smarter tourism experiences through intelligent monitoring, wearable technology, and real-time safety analytics.
