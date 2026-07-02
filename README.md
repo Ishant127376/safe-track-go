@@ -9,6 +9,7 @@ A smart tourism safety platform designed to improve traveler safety across herit
 <p align="center">
 <img src="project-workflow.png" width="100%">
 </p>
+
 ---
 
 ## Live Demo
